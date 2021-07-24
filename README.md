@@ -53,7 +53,7 @@
 
     새 창이 열리게 되면, 웹 드라이버로 다루고 있는 창을 바꿔주고, 동의합니다 버튼 클릭 후 백신 예약 클릭
 
-<img width="200" alt="스크린샷 2021-07-22 오후 4 07 18" src="https://user-images.githubusercontent.com/79779676/126601643-eeb96e89-691b-4f43-91e9-5bc1ecbc999d.png">
+<img width="389" alt="스크린샷 2021-07-24 오전 11 35 15" src="https://user-images.githubusercontent.com/79779676/126855121-1984b2d1-843b-43cd-94c9-0e8b1bd194e9.png">
 
 <br/><br/>
 
