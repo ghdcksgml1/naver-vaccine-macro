@@ -13,7 +13,13 @@
 
 # 💉 필수 설치
 
-### ![icons8-python-48](https://user-images.githubusercontent.com/79779676/126363111-57fdad9e-f8e6-4d4f-908d-2dc0dba9a606.png)Python 3.9 + Module ( selenium, bs4, tkinter )
+### ![icons8-python-48](https://user-images.githubusercontent.com/79779676/126363111-57fdad9e-f8e6-4d4f-908d-2dc0dba9a606.png)Python 3.9 + Module ( selenium, bs4, tkinter, time )
+
+    pip install selenium
+    pip install bs4
+    pip install tkinter
+    pip install time
+
 ### ![icons8-google-48](https://user-images.githubusercontent.com/79779676/126363753-5eded8a9-8dee-4b0f-9906-bfca4d24ac78.png) chormedriver
 
 - 설치되어 있는 크롬의 버전과 설치할 webdriver의 버전이 일치해야 합니다. ( 오류의 원인 )
