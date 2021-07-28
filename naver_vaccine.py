@@ -93,8 +93,7 @@ def reset():
 
 window = Tk()
 window.title("naver_vaccine")
-window.geometry("700x500+100+100")
-window.resizable(False, False)
+window.geometry("400x300+100+100")
 rwidth = 10
 FontSize = tkFont.Font(size=30)
 l1 = Label(window, text="Link 1 : ", font=FontSize).grid(row=1, column=0)
