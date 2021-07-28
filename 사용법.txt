@@ -1,0 +1,40 @@
+파이썬이 설치 되셨으면 다음과 같이 합시다.
+
+프로그램은 맥으로 만들었지만, 윈도우가 더 빠릅니다.
+
+Windows Ver.
+
+1. cmd 들어가기 : win+R > cmd > 확인
+2. 다운로드 받은 폴더 naver-vaccine-macro 가 있는 폴더 주소 복사
+3. cmd 창에 들어가 
+    cd 폴더경로
+   엔터
+
+4. pip install -r requirements.txt 입력 오류 뜨거나 안되면
+   pip3 install -r requirements.txt 입력
+5. naver-vaccine-macro.py 실행
+
+Mac Ver.
+
+1. 터미널 들어가기
+2. 다운로드 받은 폴더로 이동
+   Ex.) 바탕화면이 있다면, cd desktop 엔터 후 cd naves-vaccine-macro
+3. pip install -r requirements.txt 입력 오류 뜨거나 안되면
+   pip3 install -r requirements.txt 입력
+4. naver-vaccine-macro.py 실행
+
+
+Naver-vaccine-macro.py 실행 후
+
+링크를 각각 적는다. 1개나 3개 전부 입력해야함
+2개는 안됨 (이유는 모름..)
+
+준비 눌러서 프로그램 들어가준뒤
+
+새탭을 켜서 네이버 인증서 인증해놓는다.
+
+인증을 했으면 새탭을 닫고 시작 버튼 클릭
+
+중지하고 싶으면, 강제종료 해야한다.. (개발한 사람의 실력부족으로 중지 키 못만듬..)
+
+만약 중지했다면, 다시 네이버 인증서를 인증해야하므로 조심하길..
