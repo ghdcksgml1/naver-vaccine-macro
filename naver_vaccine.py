@@ -63,6 +63,8 @@ def start():
             idx += 1
             if(idx == 3):
                 time.sleep(1.3)
+        if(trigger >= 700):
+            break
 
     # driver.switch_to_window(driver.window_handles[1])
     # driver.get_window_position(driver.window_handles[1])
@@ -79,6 +81,7 @@ def start():
         element4.click()
     except:
         print("실패 한듯??.. 리셋 누르고 다시 시작~")
+    
 
 
 def reset():
