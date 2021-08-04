@@ -1,6 +1,6 @@
 # 💉 네이버 톡톡을 이용한 네이버 백신 매크로
 
-<img width="200" alt="스크린샷 2021-07-29 오전 1 48 07" src="https://user-images.githubusercontent.com/79779676/127363599-7103b384-6ab2-46cf-a83b-b14afb05b1ac.png">
+<img width="1100" alt="Screen Shot 2021-08-05 at 3 32 02 AM" src="https://user-images.githubusercontent.com/79779676/128235700-c63e37cc-7a2a-4da9-a5f1-a2358efd4145.png">
 
 
 ~~결론 먼저 말씀드리면, 이 매크로로 백신을 신청하는 것은 불가능합니다.~~
