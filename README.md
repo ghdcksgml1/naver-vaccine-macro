@@ -1,4 +1,4 @@
-# 💉 네이버 톡톡을 이용한 네이버 백신 매크로
+# 💉 네이버 백신 매크로
 
 <img width="1100" alt="Screen Shot 2021-08-05 at 3 32 02 AM" src="https://user-images.githubusercontent.com/79779676/128235700-c63e37cc-7a2a-4da9-a5f1-a2358efd4145.png">
 
